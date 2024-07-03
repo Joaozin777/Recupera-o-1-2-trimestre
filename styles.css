@@ -1,0 +1,26 @@
+header{
+    background-color: blue;
+    padding: 10px;
+    text-align: left;
+}
+
+main{
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+body{
+    color: bisque;
+    margin: 1cm;
+}
+
+.lema{
+text-align: center;
+font-size: 32px;
+font-style: italic;
+}
+
+.autor{
+    text-align: right;
+    font-size: 16px;
+}
